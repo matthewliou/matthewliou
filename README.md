@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi There! 👋
+Hi, I'm Matthew. I'm currently working as an analyst but wanted to learn more about data analysis and reporting, query optimization and data modelling! 
+
+Hoping I can get started on some projects as a way to learn more and showcase my skills.
+
+### Connect with me:
+[LinkedIn](https://www.linkedin.com/in/matthewliou/)
 
 <!--
 **matthewliou/matthewliou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
