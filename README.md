@@ -1,5 +1,5 @@
 ## Hi There! 👋
-Hi, I'm Matthew. I'm currently working as an analyst but wanted to learn more about data analysis and reporting, query optimization and data modelling! 
+Hi, I'm Matthew. I'm currently working as an Enterprise Risk Analyst for an Oil and Gas firm, but wanted to learn more about data analysis and reporting, query optimization and data modelling! 
 
 Hoping I can get started on some projects as a way to learn more and showcase my skills.
 
